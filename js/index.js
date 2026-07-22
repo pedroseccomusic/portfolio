@@ -68,8 +68,8 @@ const arranjosData = [
         A Night In Brazil, which took place at the Berklee Performance Center in February 2025. This concert was
         the very first student-led show exclusively dedicated towards Brazilian music on the BPC, and Secco was
         the co-music director of the project.`,
-        thumb: "assets/thumb/QUI_NEM_JILO_Score_secure/1.png",
-        pdf: "assets/score/QUI_NEM_JILO_Score.pdf",
+        thumb: "assets/thumb/QUI_NEM_JILO_Score/1.png",
+        pdf: "assets/score/QUI_NEM_JILO_Score_secure.pdf",
         audio: "",
         video: "https://www.youtube.com/embed/1lsneH77xWA?si=AKyKqAyuzK2XirEc"  
     },
