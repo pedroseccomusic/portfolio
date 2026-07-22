@@ -44,7 +44,7 @@ const arranjosData = [
         Live recorded at Berklee Studio 3 by an ensemble of professional musicians hired by
         the school.`,
         thumb: "assets/thumb/Desolee_FullScore/1.png",
-        pdf: "assets/score/Desolee_FullScore.pdf",
+        pdf: "assets/score/Desolee_FullScore_secure.pdf",
         audio: "assets/audio/Desolee_Master.mp3",
         video: "" 
     },
@@ -57,7 +57,7 @@ const arranjosData = [
         It was recorded in May 2026, at Futura Productions, in Roslindale, M, by a chamber orchestra formed by
         professional orchestral musicians hired by Berklee.`,
         thumb: "assets/thumb/Hortensias_FullScore/1.png",
-        pdf: "assets/score/Hortensias_FullScore.pdf",
+        pdf: "assets/score/Hortensias_FullScore_secure.pdf",
         audio: "assets/audio/Hortensias_Rec.mp3",
         video: ""
     },
@@ -68,7 +68,7 @@ const arranjosData = [
         A Night In Brazil, which took place at the Berklee Performance Center in February 2025. This concert was
         the very first student-led show exclusively dedicated towards Brazilian music on the BPC, and Secco was
         the co-music director of the project.`,
-        thumb: "assets/thumb/QUI_NEM_JILO_Score/1.png",
+        thumb: "assets/thumb/QUI_NEM_JILO_Score_secure/1.png",
         pdf: "assets/score/QUI_NEM_JILO_Score.pdf",
         audio: "",
         video: "https://www.youtube.com/embed/1lsneH77xWA?si=AKyKqAyuzK2XirEc"  
@@ -81,7 +81,7 @@ const arranjosData = [
         class Vocal Writing at Berklee College of Music. This recording consists of a demo, with the bass being a regular
         MIDI sampled instrument.`,
         thumb: "assets/thumb/PedroSecco_Borzerguim/1.png",
-        pdf: "assets/score/PedroSecco_Borzerguim.pdf",
+        pdf: "assets/score/PedroSecco_Borzerguim_secure.pdf",
         audio: "assets/audio/VocalWriting_Borzeguim.mp3",
         video: "" 
     },
@@ -92,7 +92,7 @@ const arranjosData = [
         project for Writing for Big Band class at Berklee College of Music. Live recorded by an ensemble formed by
         fellow Berklee students.`,
         thumb: "assets/thumb/Lost_Final_FullScore/1.png",
-        pdf: "assets/score/Lost_Final_FullScore.pdf",
+        pdf: "assets/score/Lost_Final_FullScore_secure.pdf",
         audio: "assets/audio/Lost_PedroSecco.mp3",  
         video: ""
     },
@@ -105,7 +105,7 @@ const arranjosData = [
         – intimate, dramatic, sad – to the last song, which is a festive celebration of South America. The piece was sung by
         Brazilian singer Jade Faria, backed up by a brass and strings orchestra of more than 40 musicians.`,
         thumb: "assets/thumb/SCORE_NeyMedley_V4/1.png",
-        pdf: "assets/score/SCORE_NeyMedley_V4.pdf",
+        pdf: "assets/score/SCORE_NeyMedley_V4_secure.pdf",
         audio: "", 
         video: "https://vimeo.com/showcase/9726865?video=1171103863#t=47m11s"
     }
