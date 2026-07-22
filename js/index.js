@@ -129,7 +129,7 @@ const renderizarArranjos = () => {
         } else if (arranjo.video !== "") {
             midiaHTML = `
                 <a href="${arranjo.video}" target="_blank" class="btn-youtube">
-                    Assistir Performance
+                    Watch Performance
                 </a>
             `;
         }
@@ -138,9 +138,9 @@ const renderizarArranjos = () => {
             <article class="item-arranjo">
                 <a href="${arranjo.pdf}" target="_blank" class="link-partitura" title="Abrir partitura em PDF">
                     <div class="imagem-partitura">
-                        <img src="${arranjo.thumb}" alt="Partitura de ${arranjo.titulo}">
+                        <img src="${arranjo.thumb}" alt="Score of ${arranjo.titulo}">
                         <div class="overlay-pdf">
-                            <span>Ver Partitura (PDF)</span>
+                            <span>View Score (PDF)</span>
                         </div>
                     </div>
                 </a>
@@ -276,7 +276,6 @@ const renderizarLibrary = () => {
                     <h3>${trilha.titulo}</h3>
                     <p>${trilha.descricao}</p>
                 </div>
-                <!-- Usa a mesma classe 'player-audio' para pausar os outros ao tocar -->
                 <audio controls class="player-audio player-trilha">
                     <source src="${trilha.audio}" type="audio/mpeg">
                 </audio>
@@ -320,7 +319,6 @@ const renderizarUptb = () => {
                     <h3>${trilha.titulo}</h3>
                     <p>${trilha.descricao}</p>
                 </div>
-                <!-- Usa a mesma classe 'player-audio' para pausar os outros ao tocar -->
                 <audio controls class="player-audio player-trilha">
                     <source src="${trilha.audio}" type="audio/mpeg">
                 </audio>
