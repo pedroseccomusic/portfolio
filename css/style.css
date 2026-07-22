@@ -395,6 +395,14 @@ header {
     }
 }
 
+@media (max-width: 768px) {
+    .video-card {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.5rem;
+    }
+    
+}
 
 
 /* UNDERSCORING */
