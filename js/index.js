@@ -54,7 +54,7 @@ const arranjosData = [
         descricao: `Hortênsias is an orchestral piece composed as Secco’s final project during his
         time studying Contemporary Writing and Production at Berklee. The piece represents an old woman
         taking care of her hydrangeas, while she struggles to let go of her most obsessive and traumatic thoughts.
-        It was recorded in May 2026, at Futura Productions, in Roslindale, M, by a chamber orchestra formed by
+        It was recorded in May 2026, at Futura Productions, in Roslindale, MA, by a chamber orchestra formed by
         professional orchestral musicians hired by Berklee.`,
         thumb: "assets/thumb/Hortensias_FullScore/1.png",
         pdf: "assets/score/Hortensias_FullScore_secure.pdf",
